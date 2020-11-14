@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de25bb77-18a1-459c-b04a-ccbb40519463" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gg4Po65Yp1WJcFnPfXd7xp9ZFH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.main3">
+    <configuration name="My_Dataset2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-27-猫狗识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/My_Dataset2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="My_Dataset3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-27-猫狗识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/My_Dataset3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-27-猫狗识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="separate_sample2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2020-08-27-猫狗识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/separate_sample2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="separate_sample3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-27-猫狗识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/separate_sample3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main3" />
+        <item itemvalue="Python.My_Dataset3" />
+        <item itemvalue="Python.separate_sample3" />
+        <item itemvalue="Python.My_Dataset2" />
+        <item itemvalue="Python.separate_sample2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de25bb77-18a1-459c-b04a-ccbb40519463" name="Default Changelist" comment="" />
+      <created>1598522879077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598522879077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598775795678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598775795678" />
+    <state x="1066" y="304" key="FileChooserDialogImpl" timestamp="1599876151948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="304" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599876151948" />
+    <state width="1266" height="198" key="GridCell.Tab.0.bottom" timestamp="1599876152716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599876152716" />
+    <state width="1266" height="198" key="GridCell.Tab.0.center" timestamp="1599876152716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599876152716" />
+    <state width="1266" height="198" key="GridCell.Tab.0.left" timestamp="1599876152716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599876152716" />
+    <state width="1266" height="198" key="GridCell.Tab.0.right" timestamp="1599876152716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599876152716" />
+    <state x="600" y="165" key="SettingsEditor" timestamp="1598690882077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598690882077" />
+    <state x="18" y="87" width="1120" height="742" key="dock-window-1" timestamp="1599808725067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="18" y="87" width="1120" height="742" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1599808725067" />
+    <state x="-62" y="50" width="1247" height="963" key="dock-window-2" timestamp="1599814300804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-62" y="50" width="1247" height="963" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1599814300804" />
+    <state x="327" y="145" width="1224" height="891" key="dock-window-3" timestamp="1599816711154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="327" y="145" width="1224" height="891" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1599816711154" />
+    <state x="26" y="46" width="1053" height="891" key="dock-window-4" timestamp="1599873137311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="26" y="46" width="1053" height="891" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1599873137311" />
+  </component>
+</project>
